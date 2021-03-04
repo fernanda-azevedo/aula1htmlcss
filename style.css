@@ -1,0 +1,22 @@
+.divs {
+    width: 100%;
+}
+
+#primeira {
+height: 50px;
+background-color: burlywood;
+}
+
+#segunda {
+    height: 400px;
+}
+
+#terceira {
+        height: 50px;
+        background-color: burlywood;
+}
+
+#quarta {
+    height: 50px;
+        background-color: rgb(32, 20, 4);
+}
